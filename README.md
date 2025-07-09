@@ -4,6 +4,6 @@
 
 🎓 Coursework: Object-oriented Programming, Data Structures, Computer Networks, Algorithms, Operating Systems, Artificial Intelligence, Software Project Management
 
-💻 I have interned at SOTI Inc. as an SDET and currently seeking opportunities in Software Development/Engineering
+💻 I am a Graduate Game Engineer at 2K, passionate about game development. I have former internship experience as an SDET at SOTI Inc.
 
 👥 I am always welcome to meet like-minded individuals, so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/daltonfern/)
